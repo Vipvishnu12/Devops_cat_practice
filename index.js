@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 
 app.get("/", (req, res) => {
-    res.send("AWS Demoknbvhgc Bacjkhgfdkend Running 🚀");
+    res.send("AWS rerererere Bacjkhgfdkend Running 🚀");
 });
 
 app.get("/api", (req, res) => {
