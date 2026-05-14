@@ -16,5 +16,5 @@ app.get("/api", (req, res) => {
 const PORT = 5000;
 
 app.listen(PORT, () => {
-    console.log(`Server runnrrghing on port ${PORT}`);
+    console.log(`Server erereere on port ${PORT}`);
 });
