@@ -22,7 +22,7 @@ jobs:
           key: ${{ secrets.EC2_SSH_KEY }}
 
           script: |
-            cd devops_cat_practice
+            cd Devops_cat_practice
             git pull origin main
             npm install
             pm2 restart backend
