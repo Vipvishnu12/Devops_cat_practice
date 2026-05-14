@@ -9,12 +9,12 @@ app.get("/", (req, res) => {
 app.get("/api", (req, res) => {
     res.json({
         success: true,
-        message: "Hello eeeeefccrom backend"
+        message: "Hello eeeee2e2efccrom backend"
     });
 });
 
 const PORT = 5000;
 
 app.listen(PORT, () => {
-    console.log(`Server erereere on port ${PORT}`);
+    console.log(`Server ererw2e2eere on port ${PORT}`);
 });
