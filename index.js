@@ -9,7 +9,7 @@ app.get("/", (req, res) => {
 app.get("/api", (req, res) => {
     res.json({
         success: true,
-        message: "Hello from backend"
+        message: "Hello fccrom backend"
     });
 });
 
